@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android"
+android:interpolator="@android:anim/accelerate_interpolator"
+android:fromAlpha="0.0"
+android:toAlpha="1.0"
+android:duration="1500" />
+
+<!--This animation file defines a fade-in animation that -->
+<!--    gradually increases the alpha (transparency) of the target view from 0.0 to 1.0 over a duration of 1000 milliseconds-->
